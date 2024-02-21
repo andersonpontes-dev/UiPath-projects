@@ -1,0 +1,1 @@
+Prezado Cliente,\n Informamos que sua solicitação não foi atendida e finalizada.\nPorém, Não foi possivel criar a visão de vendas para o NI xxxxx: erro.\nO acompanhamento de todas as etapas que ocorreram com relação a este atendimento poderá ser feito no próprio Service Now.\nAtenciosamente,\n\nSGS - Governança de Dados Mestres

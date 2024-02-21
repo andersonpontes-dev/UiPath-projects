@@ -1,0 +1,1 @@
+Prezado Cliente,\nInformamos que sua solicitação foi atendida e finalizada.\nFoi criado a visão de vendas para o NI xxxxx.\nO acompanhamento de todas as etapas que ocorreram com relação a este atendimento poderá ser feito no próprio Service Now.\nAtenciosamente,\n\nSGS - Governança de Dados Mestres
